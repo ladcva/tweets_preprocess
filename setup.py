@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-	name = 'preprocess_kgptalkie', #this should be unique
+	name = 'tweets_preprocess', #this should be unique
 	include_package_data=True,
 	version = '0.1.0',
 	author = 'Le Anh Duc',
