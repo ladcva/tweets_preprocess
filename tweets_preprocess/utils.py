@@ -54,7 +54,8 @@ def _get_uppercase_counts(x):
 
 def _cont_exp(x):
 	abbreviations = json.load(open(abbreviations_path))
-
+	
+	# adding this update
 	if type(x) is str:
 		for key in abbreviations:
 			value = abbreviations[key]
