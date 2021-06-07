@@ -1,5 +1,7 @@
 # tweets_preprocess
 
+**An useful library for social network text preprocessing**
+
 Dependencies
 ```
 pip install spacy==2.2.3
